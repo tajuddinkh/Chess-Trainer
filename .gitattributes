@@ -1,0 +1,4 @@
+*.cpp -text
+*.rc -text
+*.bat -text
+*.ico binary

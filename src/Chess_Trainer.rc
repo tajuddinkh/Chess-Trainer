@@ -1,0 +1,35 @@
+#include <windows.h>
+
+101 ICON "Chess_Trainer.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 6,0,0,0
+ PRODUCTVERSION 6,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "Chess Trainer\0"
+            VALUE "FileVersion", "6.0.0.0\0"
+            VALUE "InternalName", "Chess_Trainer\0"
+            VALUE "LegalCopyright", "Copyright (c) 2026 Tajud Din\0"
+            VALUE "OriginalFilename", "Chess_Trainer.exe\0"
+            VALUE "ProductName", "Chess Trainer\0"
+            VALUE "ProductVersion", "6.0.0.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1200
+    END
+END

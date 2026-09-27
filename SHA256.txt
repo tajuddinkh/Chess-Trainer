@@ -1,0 +1,18 @@
+Chess Trainer V6.0.0
+Release checksums
+===================
+
+Chess_Trainer.exe
+37a6dad099d77bcc59c9179e190bd57b3feca497143f715dc7e3a0af4596867e
+
+Chess_Trainer_V6_0_0.cpp
+6d51bdce43f8ccf885c577331900f3f72a2ccac8d7047ea36422581c249ee7d3
+
+Chess_Trainer_V6_0_0_Portable.zip
+ecd20b763f562b587980fa630a5f10d35d3da6f4972bddcab59e12f5a346bfe9
+
+Stockfish 18 Windows x86-64-avx2
+c86215fa1977d53b82ed854540a4c7b025be4cd042276c85ba3de53fb9118911
+
+Official Stockfish 18 Windows x86-64-avx2 archive
+6f6c272ebd6ea594377715235c8a7326f75940ef4f4f856f45106028fe6ae900

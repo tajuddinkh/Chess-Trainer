@@ -1,0 +1,36 @@
+Stockfish 18 Corresponding Source Information
+================================================
+
+Component
+---------
+Stockfish 18, Windows x86-64-avx2
+
+Packaged executable SHA-256
+--------------------------
+c86215fa1977d53b82ed854540a4c7b025be4cd042276c85ba3de53fb9118911
+
+Official binary archive
+-----------------------
+File: stockfish-windows-x86-64-avx2.zip
+SHA-256: 6f6c272ebd6ea594377715235c8a7326f75940ef4f4f856f45106028fe6ae900
+Release: Stockfish 18 / sf_18
+
+Corresponding source
+--------------------
+Exact upstream release tag:
+https://github.com/official-stockfish/Stockfish/tree/sf_18
+
+Upstream project:
+https://github.com/official-stockfish/Stockfish
+
+Licence
+-------
+GNU General Public License version 3.
+The complete GPLv3 text is distributed in this project as:
+licenses/Stockfish-GPL-3.0.txt
+
+Distribution note
+-----------------
+Chess Trainer packages the unmodified official Stockfish 18 Windows x86-64-avx2
+executable as a separate local process. The source location above identifies the
+upstream source corresponding to the packaged Stockfish release.
